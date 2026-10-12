@@ -1,5 +1,5 @@
 context:
-  version: "2.3.1"
+  version: "2.3.2"
 
 package:
   name: pygensuggestions
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pygensuggestions/pygensuggestions-${{ version }}.tar.gz
-  sha256: 9e9449b623aac96163482b07f2d7e7b67ee4fa1dca7abfbf10d9ff46e9907389
+  sha256: 0019fa26955576b0e890819c02edb1e97e786df68cdb17224d577fa558ce2461
 
 build:
   script:
